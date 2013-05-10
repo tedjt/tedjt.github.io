@@ -1,0 +1,232 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+
+  <title>Ted Tomlinson | Software Engineer, Tech Lead | ted@tedtomlinson.com, zumbino@gmail.com</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+	<meta name="keywords" content="Ted Tomlinson, Software Engineer, Mobile Commerce, Analytics, AdSense, AdWords, Business Intelligence" />
+	<meta name="description" content="Ted Tomlinson's Resume" />
+
+	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css" media="all" />
+	<link rel="stylesheet" type="text/css" href="css/resume.css" media="all" />
+
+</head>
+<body>
+
+<div id="doc2" class="yui-t7">
+	<div id="inner">
+
+		<div id="hd">
+			<div class="yui-gc">
+				<div class="yui-u first">
+					<h1>Ted Tomlinson</h1>
+					<h2>Software Engineer, Tech Lead</h2>
+				</div>
+
+				<div class="yui-u">
+					<div class="contact-info">
+						<h3><a id="pdf" href="#">Download PDF</a></h3>
+						<h3><a href="mailto:ted@tedtomlinson.com">ted@tedtomlinson.com</a></h3>
+						<h3>(310) - 487-1927</h3>
+					</div><!--// .contact-info -->
+				</div>
+			</div><!--// .yui-gc -->
+		</div><!--// hd -->
+
+		<div id="bd">
+			<div id="yui-main">
+				<div class="yui-b">
+
+					<div class="yui-gf">
+						<div class="yui-u first">
+							<h2>Profile</h2>
+						</div>
+						<div class="yui-u">
+							<p class="enlarge">
+                                                        Technical leader in mobile, web and business intelligence.
+                                                        Experience building mobile commerce solutions for brick and mortar retailers
+                                                        and large scale statistical analysis pipelines for web traffic.
+							</p>
+						</div>
+					</div><!--// .yui-gf -->
+
+                                        <!--
+					<div class="yui-gf">
+						<div class="yui-u first">
+							<h2>Skills</h2>
+						</div>
+						<div class="yui-u">
+
+								<div class="talent">
+                                                                  <h2> Leadership </h2>
+								  <p>I have led multiple small teams of engineers across a range of products and technology stacks.</p>
+								</div>
+
+								<div class="talent">
+									<h2> Partnerships </h2>
+									<p>I have often been in a partner integration role, driving collaborative product development and defining techincal relationsips that can benefit everyone.</p>
+								</div>
+
+								<div class="talent">
+									<h2>Project Management</h2>
+                                                                        <p>I have consistently coordinated cross team development initiatives requiring both the organization, technical planning and personal diplomacy needed to ensure clear communication and timely results.</p>
+								</div>
+						</div>
+					</div><!--// .yui-gf -->
+
+					<div class="yui-gf technical">
+						<div class="yui-u first">
+							<h2>Technical</h2>
+						</div>
+						<div class="yui-u">
+                                                  <div class="talent">
+                                                        <h2>Language/Area </h2>
+							<ul>
+								<li>Java</li>
+								<li class="double-space">Python</li>
+								<li>Objective C</li>
+								<li>Javascript</li>
+								<li>PHP</li>
+								<li>HTML/CSS</li>
+                                                                <li class="double-space">Databases</li>
+								<li>Statistics</li>
+								<li class="double-space">Servers/Ops</li>
+								<li class="last">Testing</li>
+							</ul>
+                                                      </div>
+                                                    <div class="talent">
+                                                        <h2>Technologies</h2>
+							<ul>
+								<li>Spring (MVC, Security), Android, Solr, Wicket, Maven</li>
+								<li>Django, webapp2, Flask, Appengine, SWIG, nltk, numpy/scipy, pandas</li>
+								<li>Core Location/Graphics/Animation/Data, GCD</li>
+								<li>AngularJS, Backbone, Jquery, D3, Sencha</li>
+								<li>CakePHP, Kohana, Zend, Wordpress, Drupal</li>
+								<li>Sass, Less, Bootstrap, Jinga2, JSP, Freemarker</li>
+								<li>MySql, MongoDB, PostreSQL, Django ORM, Memecached, Datastore</li>
+								<li>R, Stata, Excel, Python stats packages.</li>
+								<li>AWS, Chef, Zookeeper, Fabric, Boto, Appengine, Nginx, Jetty, Tomcat, Apache2</li>
+								<li class="last">Testing - Junit, KIF, Selenium, TeamCity</li>
+
+							</ul>
+                                                      </div>
+						</div>
+					</div><!--// .yui-gf-->
+
+					<div class="yui-gf">
+
+						<div class="yui-u first">
+							<h2>Experience</h2>
+						</div><!--// .yui-u -->
+
+						<div class="yui-u">
+                                                    <div class="job">
+								<h2>Index/Tappmo</h2>
+								<h3>iOS, Web and Analytics lead</h3>
+								<h4>2012-2013</h4>
+                                                                <p>
+                                                                Lead 3 teams of two for each of the iOS, Web, and Analytics component of the Commerce Network product developed by Index. Also oversaw partner techincal partner integration work.
+                                                                <ul>
+                                                                  <li>
+                                                                  <strong>Lead iOS developer</strong> &mdash; Developed a base library with network layer, view components, data model, delegate interfaces, location services and distributed operation depency framework designed to be used by partner developer teams as a foundation for white label commerce applications. Published resources and supported multiple external merchant partners with the integration of the service into their applications. Mentored and trained two junior engineers to contribute to internal POS and consumer payments apps built on top of it for the iPad and iPhone platforms. Designed a code generation endpoint service based on protobuffers to generate java server and Objective-C client code.
+                                                                </li>
+                                                                <li>
+                                                                <strong>Lead front end dev </strong> &mdash; Built front end server using Spring MVC after exploring other java options like wicket, play, etc. Browser client is built on AngularJs with a number of custom mobile web components. Managed team of two other engineers to coordinate feature development.
+</li>
+                                                                <li>
+                                                                <strong>Analytics Lead</strong> &mdash;
+                                                                Designed the stats tables and targeting system for Index's offer and loyalty distribution products. Based on user transaction data and merchant marketing goals, activated dynamic offer campaigns designed to morph to the consumer's specific retail profile.
+                                                                </li>
+                                                                </p>
+							</div>
+
+                                                  <div class="job">
+								<h2>Google</h2>
+								<h3>Business Intelligence</h3>
+								<h4>2011-2012</h4>
+                                                                <p>
+                                                                Created automated big data processing, analytics and statistical model pipeline used to value, monitor, analyze and allocate billions of dollars towards distribution deals. Distribution sources included OEM, Bundle, Toolbars, Referrals, Marketing and Organic traffic.
+                                                                <ul>
+                                                                  <li>
+                                                                  Used Google technologies like sawzall, mapreduce, borg, patchpanel and dremel.
+                                                                  </li>
+                                                                  <li>Pipeline went from raw logs data to final projections on deal valuation parameters like user value, cohort attrition, and cannibalization across distribution products.
+                                                                  </li>
+                                                                  <li>
+                                                                  Built front end on Appengine for monitoring, analyzing and projecting partner deal values.
+                                                                  </li>
+                                                                  <li>
+                                                                  Internal system was found to be much more accurate than third party data sources like ComScore, Nielson, or CUP data on backtested deal data.
+                                                                  </li>
+                                                                </ul>
+                                                                  </p>
+							</div>
+
+							<div class="job">
+								<h2>Google</h2>
+								<h3>Wallet</h3>
+								<h4>2010-2011</h4>
+                                                                <p>
+                                                                Merchant vendor partnerships lead. Worked on a range of Wallet components, but made the largest contributions on merchant facing integration needs like offers, loyalty, and gift cards.
+                                                                <ul>
+                                                                  <li>
+                                                                  Gained a strong understanding of Google's MIFARE offering and developed some of the procedures for merchant MIFARE support.
+                                                                  </li>
+                                                                  <li>
+                                                                  Worked closely with card issuers defining a standard API to support their bank cards and created the initial designs for supporting PLC (private label cads) via a TSM proxy.
+                                                                  </li>
+                                                                  <li>
+                                                                  Worked on the various Google offers platforms (pre-paid, in ad, checkin ...) to support offers integration with the Wallet client offer format/redemption path.
+                                                                  </li>
+                                                                </ul>
+                                                                  </p>
+							</div>
+
+
+							<div class="job last">
+								<h2>Google</h2>
+								<h3>AdSense</h3>
+								<h4>2010</h4>
+								<p> Developed product features for large direct AdSense partners. Particular focus on AFD (domains) features like related link targeting, traffic quality scores and geo targeting signals</p>
+                                                                <ul>
+                                                                  <li>
+                                                                  Built a data pipeline from product logging to stats tables for a new model projecting the future of the AFD business. Predicted how browser features and changes in browser share would impact revenue and used the data to prioritize new features in the AFD product. </li>
+                                                                  <li>Created an index generator to group partners into comparables based on traffic signals like impressions, clicks, query classificiation, CPC, and coverage over time. Index could be used to diagnose sources of traffic/revenue changes against comparable partners and drive product development direction.
+                                                                </ul>
+                                                                </div>
+						</div><!--// .yui-u -->
+					</div><!--// .yui-gf -->
+
+
+					<div class="yui-gf last">
+						<div class="yui-u first">
+							<h2>Education</h2>
+						</div>
+						<div class="yui-u">
+							<h2>Master of Engineering &mdash; MIT</h2>
+                                                        <h3>Computer Science &mdash; <strong>GPA 5.0/5.0</strong></h3>
+                                                        <h4>Thesis - Mobile interface morphing engine for iOS</h4>
+                                                            <br/>
+                                                        <h2>Bachelor of Science &mdash; MIT</h2>
+                                                        <h3>Dual Major, Computer Science and Economics </h3>
+						</div>
+					</div><!--// .yui-gf -->
+
+
+				</div><!--// .yui-b -->
+			</div><!--// yui-main -->
+		</div><!--// bd -->
+
+		<div id="ft">
+			<p>Ted Tomlinson &mdash; <a href="mailto:ted@tedtomlinson.com">ted@tedtomlinson.com</a> &mdash; (310) - 487-1927</p>
+		</div><!--// footer -->
+
+	</div><!-- // inner -->
+
+
+</div><!--// doc -->
+
+
+</body>
+</html>
